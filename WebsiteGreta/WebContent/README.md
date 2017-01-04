@@ -14,4 +14,9 @@ Rodolfo Rollo
 
 ## Copyright and License
 
--none
+none.
+
+## TODO
+
+-connection with booking button
+-refactoring
